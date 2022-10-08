@@ -1263,10 +1263,12 @@ h6 {
   transition: 0.3s;
   color: #fff;
   background: var(--color-primary);
+ 
 }
 
 .hero .btn-get-started:hover {
-  background: #2cbc85;
+  background: #0c7057;
+  transform: scale(1.1);
 }
 
 @media (max-width: 768px) {
